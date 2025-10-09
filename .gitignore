@@ -47,6 +47,9 @@ var/
 # PyCharm
 .idea/
 
+#initialisaiton de l'env
+start_env_vscode.bat
+
 # ---- Données lourdes (exemple à adapter) ----
 *.mkv
 *.mp4
